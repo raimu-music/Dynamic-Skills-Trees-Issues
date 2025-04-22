@@ -2,7 +2,7 @@
 name: Bug Report
 about: Create a report for the Skills mod
 title: ''
-labels: bug
+labels: bug, suggestion
 assignees: ''
 
 ---
