@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report for the Skills mod
+about: Report a bug with the skill trees
 title: ''
 labels: bug, suggestion
 assignees: ''
